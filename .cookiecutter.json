@@ -1,0 +1,25 @@
+{
+  "_commit": "9e3c49f6680d4c400567c39d70b768f0a322c95e",
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_jinja2_env_vars": {
+    "lstrip_blocks": true,
+    "trim_blocks": true
+  },
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Ariel Dahlberg Karlsen",
+  "code_quality_level": "Medium",
+  "copyright_owner": "Statistics Norway",
+  "copyright_year": "2025",
+  "department_number": "703",
+  "dependency_manager_tool": "poetry",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "54323769+ArielKarlsen@users.noreply.github.com",
+  "friendly_name": "SSB Libtest2",
+  "github_organization": "statisticsnorway",
+  "license": "MIT",
+  "package_name": "ssb_libtest2",
+  "project_name": "ssb-libtest2",
+  "version": "0.0.0"
+}
